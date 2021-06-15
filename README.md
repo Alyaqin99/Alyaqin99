@@ -1,2 +1,3 @@
-#this is my project
-this is test 
+# cs1234 - software engineering
+## course project 
+this is a testing project for demo .
